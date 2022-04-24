@@ -4,4 +4,3 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/marshall-demars/ICS20-Unit2-02-CSharp)](https://repl.it/github/marshall-demars/ICS20-Unit2-02-CSharp)
 
-This site can be found at: [https://marshall-demars.github.io/ICS20-Unit2-02-CSharp](https://marshall-demars.github.io/ICS20-Unit2-02-CSharp)
